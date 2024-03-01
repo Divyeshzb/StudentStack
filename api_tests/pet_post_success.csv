@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Animals,doggie,http://example.com/dog1.jpg|http://example.com/dog2.jpg,friendly|playful,available
+2,Animals,kitty,http://example.com/cat1.jpg|http://example.com/cat2.jpg,cute|lazy,sold
+3,Animals,birdie,http://example.com/bird1.jpg|http://example.com/bird2.jpg,quiet|colorful,available
+4,Animals,hamster,http://example.com/hamster1.jpg|http://example.com/hamster2.jpg,small|cute,available
+5,Animals,rabbit,http://example.com/rabbit1.jpg|http://example.com/rabbit2.jpg,fluffy|friendly,sold
+6,Animals,fish,http://example.com/fish1.jpg|http://example.com/fish2.jpg,quiet|colorful,available
+7,Animals,turtle,http://example.com/turtle1.jpg|http://example.com/turtle2.jpg,slow|hardshell,available
+8,Animals,horse,http://example.com/horse1.jpg|http://example.com/horse2.jpg,strong|fast,sold
+9,Animals,cow,http://example.com/cow1.jpg|http://example.com/cow2.jpg,large|gentle,available
+10,Animals,goat,http://example.com/goat1.jpg|http://example.com/goat2.jpg,funny|stubborn,sold

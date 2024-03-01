@@ -1,0 +1,11 @@
+userID,firstName,lastName,email,age,location
+1,John,Doe,johndoe@example.com,30,New York
+2,Mary,Smith,marysmith@example.com,25,Los Angeles
+3,James,Brown,jamesbrown@example.com,35,Chicago
+4,Patricia,Johnson,patriciajohnson@example.com,28,Houston
+5,Robert,Williams,robertwilliams@example.com,40,Phoenix
+6,Linda,Davis,lindadavis@example.com,32,Philadelphia
+7,Michael,Miller,michaelmiller@example.com,37,San Antonio
+8,Elizabeth,Wilson,elizabethwilson@example.com,33,Dallas
+9,William,Moore,williammoore@example.com,42,San Jose
+10,Jennifer,Taylor,jennifertaylor@example.com,29,Austin

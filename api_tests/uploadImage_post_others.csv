@@ -1,0 +1,11 @@
+petId,additionalMetadata,file,statusCode
+12345,Some data,file1.txt,200
+23456,More data,file2.jpg,404
+34567,Yet more data,file3.pdf,500
+45678,Data again,file4.png,301
+56789,Different data,file5.docx,403
+67890,Random data,file6.xlsx,202
+78901,Test data,file7.gif,304
+89012,Example data,file8.mp3,400
+90123,Sample data,file9.mp4,201
+01234,Final data,file10.zip,302

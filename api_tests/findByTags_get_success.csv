@@ -1,0 +1,11 @@
+id,categoryId,categoryName,name,photoUrls,tagId,tagName,status
+1,101,Canine,Doggie,http://example.com/doggie1.jpg,201,Tag1,available
+2,102,Feline,Kitty,http://example.com/kitty2.jpg,202,Tag2,sold
+3,103,Avian,Parrot,http://example.com/parrot3.jpg,203,Tag3,available
+4,104,Reptile,Lizard,http://example.com/lizard4.jpg,204,Tag4,pending
+5,105,Amphibian,Frog,http://example.com/frog5.jpg,205,Tag5,available
+6,106,Rodent,Hamster,http://example.com/hamster6.jpg,206,Tag6,sold
+7,107,Aquatic,Fish,http://example.com/fish7.jpg,207,Tag7,pending
+8,108,Insect,Spider,http://example.com/spider8.jpg,208,Tag8,available
+9,109,Arachnid,Scorpion,http://example.com/scorpion9.jpg,209,Tag9,sold
+10,110,Mammal,Elephant,http://example.com/elephant10.jpg,210,Tag10,available

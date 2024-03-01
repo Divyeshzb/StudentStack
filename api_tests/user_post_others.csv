@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus,statusCode
+1,jdoe,John,Doe,jdoe@gmail.com,pass123,1234567890,1,200
+2,jsmith,Jane,Smith,jsmith@yahoo.com,pass456,0987654321,0,200
+3,rjones,Richard,Jones,rjones@outlook.com,pass789,1357924680,1,200
+4,elizabeth34,Elizabeth,Johnson,ejohnson@hotmail.com,pass321,8642097531,0,200
+5,michael57,Michael,Williams,mwilliams@aol.com,pass654,2468135790,1,200
+6,jennifer23,Jennifer,Brown,jbrown@icloud.com,pass987,7531598624,0,200
+7,robert12,Robert,Garcia,rgarcia@zoho.com,pass231,5792468130,1,200
+8,mary45,Mary,Rodriguez,mrodriguez@protonmail.com,pass564,8135792460,0,200
+9,james67,James,Martinez,jmartinez@yandex.com,pass897,6241359780,1,200
+10,sarah89,Sarah,Hernandez,shernandez@fastmail.com,pass132,9782460315,0,200

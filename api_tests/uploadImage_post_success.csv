@@ -1,0 +1,11 @@
+petId,additionalMetadata,file,statusCode
+1001,Labrador Retriever,/files/dog1.jpg,200
+1002,Golden Retriever,/files/dog2.jpg,200
+1003,German Shepherd,/files/dog3.jpg,200
+1004,Bulldog,/files/dog4.jpg,200
+1005,Beagle,/files/dog5.jpg,200
+1006,Poodle,/files/dog6.jpg,200
+1007,Rottweiler,/files/dog7.jpg,200
+1008,Yorkshire Terrier,/files/dog8.jpg,200
+1009,Boxer,/files/dog9.jpg,200
+1010,Dachshund,/files/dog10.jpg,200

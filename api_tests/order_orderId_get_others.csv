@@ -1,0 +1,11 @@
+orderId,statusCode
+abc123,200
+def456,404
+ghi789,500
+jkl012,200
+mno345,400
+pqr678,N/A
+stu901,200
+vwx234,500
+yz1234,404
+lmn567,200

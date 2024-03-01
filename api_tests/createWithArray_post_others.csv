@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,jdoe,John,Doe,jdoe@example.com,123456,1234567890,1
+2,jsmith,Jane,Smith,jsmith@example.com,abcdef,0987654321,0
+3,mbrown,Michael,Brown,mbrown@example.com,654321,1112223333,1
+4,ltaylor,Laura,Taylor,ltaylor@example.com,zyxwvu,4445556666,0
+5,awhite,Alice,White,awhite@example.com,987654,7778889999,1
+6,rjohnson,Richard,Johnson,rjohnson@example.com,qwerty,0001112222,0
+7,kjones,Kenneth,Jones,kjones@example.com,asdfgh,3334445555,1
+8,plee,Paul,Lee,plee@example.com,zxcvbn,6667778888,0
+9,mharris,Mark,Harris,mharris@example.com,fghjkl,9990001111,1
+10,dparker,David,Parker,dparker@example.com,poiuyt,2223334444,0

@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Animals,doggie,https://example.com/photo1.jpg|https://example.com/photo2.jpg,tag1|tag2,available
+2,Animals,catto,https://example.com/photo3.jpg|https://example.com/photo4.jpg,tag3|tag4,pending
+3,Animals,birdie,https://example.com/photo5.jpg|https://example.com/photo6.jpg,tag5|tag6,sold
+4,Animals,fishie,https://example.com/photo7.jpg|https://example.com/photo8.jpg,tag7|tag8,available
+5,Animals,hammie,https://example.com/photo9.jpg|https://example.com/photo10.jpg,tag9|tag10,pending
+6,Animals,bunnie,https://example.com/photo11.jpg|https://example.com/photo12.jpg,tag11|tag12,sold
+7,Animals,horsey,https://example.com/photo13.jpg|https://example.com/photo14.jpg,tag13|tag14,available
+8,Animals,duckie,https://example.com/photo15.jpg|https://example.com/photo16.jpg,tag15|tag16,pending
+9,Animals,piggie,https://example.com/photo17.jpg|https://example.com/photo18.jpg,tag17|tag18,sold
+10,Animals,lambie,https://example.com/photo19.jpg|https://example.com/photo20.jpg,tag19|tag20,available

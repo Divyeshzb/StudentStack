@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,Animals,doggie,https://photos.com/doggie1.jpg,"['Pet', 'Dog']",available,200
+2,Plants,rose,https://photos.com/rose1.jpg,"['Flower', 'Rose']",sold,201
+3,Animals,cat,https://photos.com/cat1.jpg,"['Pet', 'Cat']",available,200
+4,Electronics,iPhone,https://photos.com/iphone1.jpg,"['Apple', 'iPhone']",sold,201
+5,Furniture,chair,https://photos.com/chair1.jpg,"['Home', 'Chair']",available,200
+6,Animals,bird,https://photos.com/bird1.jpg,"['Pet', 'Bird']",sold,201
+7,Clothes,shirt,https://photos.com/shirt1.jpg,"['Men', 'Shirt']",available,200
+8,Plants,tulip,https://photos.com/tulip1.jpg,"['Flower', 'Tulip']",sold,201
+9,Electronics,TV,https://photos.com/tv1.jpg,"['Samsung', 'TV']",available,200
+10,Furniture,table,https://photos.com/table1.jpg,"['Home', 'Table']",sold,201

@@ -1,0 +1,11 @@
+Accept-Language,X-requestId,cardId,statusCode
+en-US,rqst123,card001,200
+fr-FR,rqst124,card002,404
+en-GB,rqst125,card003,500
+es-ES,rqst126,card004,302
+de-DE,rqst127,card005,400
+it-IT,rqst128,card006,201
+ja-JP,rqst129,card007,204
+ar-SA,rqst130,card008,301
+ru-RU,rqst131,card009,403
+zh-CN,rqst132,card010,202

@@ -1,0 +1,11 @@
+petId,name,status,statusCode
+123456789,Max,Available,200
+234567890,Bella,Adopted,204
+345678901,Lucy,Available,200
+456789012,Daisy,Adopted,204
+567890123,Charlie,Reserved,201
+678901234,Cooper,Reserved,201
+789012345,Buddy,Available,200
+890123456,Molly,Adopted,204
+901234567,Max,Available,200
+012345678,Lola,Available,200

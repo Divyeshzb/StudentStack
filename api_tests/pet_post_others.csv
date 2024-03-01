@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,Animals,doggie,["url1","url2"],["tag1","tag2"],active,200
+2,Plants,orchid,["url3","url4"],["tag3","tag4"],inactive,404
+3,Animals,kitty,["url5","url6"],["tag5","tag6"],pending,102
+4,Objects,chair,["url7","url8"],["tag7","tag8"],active,200
+5,Animals,elephant,["url9","url10"],["tag9","tag10"],inactive,404
+6,Plants,rose,["url11","url12"],["tag11","tag12"],pending,102
+7,Objects,table,["url13","url14"],["tag13","tag14"],active,200
+8,Animals,lion,["url15","url16"],["tag15","tag16"],inactive,404
+9,Plants,sunflower,["url17","url18"],["tag17","tag18"],pending,102
+10,Objects,sofa,["url19","url20"],["tag19","tag20"],active,200
